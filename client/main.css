@@ -1,1 +1,18 @@
 /* CSS declarations go here */
+body {
+    background-color : green;
+}
+
+h2 {
+    background-color: blue;
+    color: red;
+}
+
+.pink {
+    color: pink;
+}
+
+#uniqueName {
+    font-size: 200px;
+}
+
